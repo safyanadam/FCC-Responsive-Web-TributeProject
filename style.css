@@ -1,0 +1,26 @@
+body {background-color: grey}
+main {font-family: sans-serif;
+text-align: center}
+#image {width: 100%;
+max-width: 100%;
+  
+  
+}
+img {display: block;
+border-radius: 15px}
+#img-caption {text-align: center;
+font-family: sans-serif;
+font-size: 0.7rem;
+padding: none;
+margin-top: 2px;
+color: #a4a4a0;
+  
+}
+
+li {text-align: left}
+
+#tributeinfo {margin: 0 30px 0 70px;
+}
+
+a {color: black;
+}
